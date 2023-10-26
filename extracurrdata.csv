@@ -1,0 +1,324 @@
+"id";"major";"suggestion";"tier"
+1;"History";"History Club";1
+2;"History";"Archaeology Society";2
+3;"History";"Historical Research Group";3
+4;"Art";"Art Club";1
+5;"Art";"Graphic Design Workshop";2
+6;"Art";"Sculpture Studio";3
+7;"Economics";"Economics Club";1
+8;"Economics";"Finance and Investment Society";2
+9;"Economics";"Behavioral Economics Research Team";3
+10;"Chemistry";"Chemistry Club";1
+11;"Chemistry";"Chemical Analysis Lab";2
+12;"Chemistry";"Materials Science Research Group";3
+13;"Psychology";"Psychology Club";1
+14;"Psychology";"Counseling and Therapy Workshop";2
+15;"Psychology";"Behavioral Neuroscience Research Team";3
+16;"History";"History Club";1
+17;"History";"Archaeology Society";2
+18;"History";"Historical Research Group";3
+19;"Art";"Art Club";1
+20;"Art";"Graphic Design Workshop";2
+21;"Art";"Sculpture Studio";3
+22;"Economics";"Economics Club";1
+23;"Economics";"Finance and Investment Society";2
+24;"Economics";"Behavioral Economics Research Team";3
+25;"Chemistry";"Chemistry Club";1
+26;"Chemistry";"Chemical Analysis Lab";2
+27;"Chemistry";"Materials Science Research Group";3
+28;"Psychology";"Psychology Club";1
+29;"Psychology";"Counseling and Therapy Workshop";2
+30;"Psychology";"Behavioral Neuroscience Research Team";3
+31;"History";"History Club";1
+32;"History";"Archaeology Society";2
+33;"History";"Historical Research Group";3
+34;"Art";"Art Club";1
+35;"Art";"Graphic Design Workshop";2
+36;"Art";"Sculpture Studio";3
+37;"Economics";"Economics Club";1
+38;"Economics";"Finance and Investment Society";2
+39;"Economics";"Behavioral Economics Research Team";3
+40;"Chemistry";"Chemistry Club";1
+41;"Chemistry";"Chemical Analysis Lab";2
+42;"Chemistry";"Materials Science Research Group";3
+43;"Psychology";"Psychology Club";1
+44;"Psychology";"Counseling and Therapy Workshop";2
+45;"Psychology";"Behavioral Neuroscience Research Team";3
+46;"Computer Science";"Software Engineering Project Group";2
+47;"Computer Science";"Data Science Club";2
+48;"Computer Science";"Blockchain Development Team";2
+49;"Computer Science";"Machine Learning Competition Group";2
+50;"Computer Science";"Game Development Workshop";2
+51;"Computer Science";"Open Source Software Initiative";2
+52;"Computer Science";"Quantum Computing Research Lab";3
+53;"Computer Science";"Ethical Hacking and Penetration Testing Club";3
+54;"Computer Science";"Robotics and Automation Challenge";3
+55;"Computer Science";"Computational Biology Research Group";3
+56;"Computer Science";"Virtual Reality Development Team";3
+57;"Computer Science";"Start-up Incubator for Tech Entrepreneurs";3
+58;"Physics";"Physics Club";1
+59;"Physics";"Astronomy Society";1
+60;"Physics";"Particle Physics Study Group";1
+61;"Physics";"Astrophotography Club";1
+62;"Physics";"Physics Olympiad Training Team";1
+63;"Physics";"Science Fair Organizing Committee";1
+64;"Physics";"Experimental Physics Research Group";2
+65;"Physics";"Quantum Mechanics Seminar";2
+66;"Physics";"Space Exploration Project Team";2
+67;"Physics";"Cosmology Symposium";2
+68;"Physics";"Advanced Astronomy Observations";2
+69;"Physics";"Science Communication and Outreach Club";2
+70;"Physics";"High-Energy Particle Physics Laboratory";3
+71;"Physics";"Astrobiology Research Initiative";3
+72;"Physics";"Theoretical Physics Journal Club";3
+73;"Physics";"Astronomical Data Analysis Challenge";3
+74;"Physics";"Exoplanet Detection and Analysis Team";3
+75;"Physics";"International Science Fair Mentorship Program";3
+76;"Computer Science";"Programming Club";1
+77;"Computer Science";"Web Development Team";1
+78;"Computer Science";"Hackathon Club";1
+79;"Computer Science";"Artificial Intelligence Society";1
+80;"Computer Science";"Cybersecurity Team";1
+81;"Computer Science";"Computer Graphics Workshop";1
+82;"Computer Science";"Data Science Research Group";2
+83;"Computer Science";"Software Engineering Internship";2
+84;"Computer Science";"Machine Learning Workshop";2
+85;"Computer Science";"Robotics Competition Team";2
+86;"Computer Science";"Cloud Computing Seminar";2
+87;"Computer Science";"Quantum Computing Research";3
+88;"Computer Science";"Blockchain Development Lab";3
+89;"Computer Science";"Natural Language Processing Group";3
+90;"Computer Science";"Ethical Hacking Club";3
+91;"Computer Science";"Augmented Reality Innovation Team";3
+92;"History";"History Club";1
+93;"History";"Archaeology Society";2
+94;"History";"Historical Research Group";3
+95;"Art";"Art Club";1
+96;"Art";"Graphic Design Workshop";2
+97;"Art";"Sculpture Studio";3
+98;"Economics";"Economics Club";1
+99;"Economics";"Finance and Investment Society";2
+100;"Economics";"Behavioral Economics Research Team";3
+101;"Chemistry";"Chemistry Club";1
+102;"Chemistry";"Chemical Analysis Lab";2
+103;"Chemistry";"Materials Science Research Group";3
+104;"Psychology";"Psychology Club";1
+105;"Psychology";"Counseling and Therapy Workshop";2
+106;"Psychology";"Behavioral Neuroscience Research Team";3
+107;"Computer Science";"Software Engineering Project Group";2
+108;"Computer Science";"Data Science Club";2
+109;"Computer Science";"Blockchain Development Team";2
+110;"Computer Science";"Machine Learning Competition Group";2
+111;"Computer Science";"Game Development Workshop";2
+112;"Computer Science";"Open Source Software Initiative";2
+113;"Computer Science";"Quantum Computing Research Lab";3
+114;"Computer Science";"Ethical Hacking and Penetration Testing Club";3
+115;"Computer Science";"Robotics and Automation Challenge";3
+116;"Computer Science";"Computational Biology Research Group";3
+117;"Computer Science";"Virtual Reality Development Team";3
+118;"Computer Science";"Start-up Incubator for Tech Entrepreneurs";3
+119;"Physics";"Physics Club";1
+120;"Physics";"Astronomy Society";1
+121;"Physics";"Particle Physics Study Group";1
+122;"Physics";"Astrophotography Club";1
+123;"Physics";"Physics Olympiad Training Team";1
+124;"Physics";"Science Fair Organizing Committee";1
+125;"Physics";"Experimental Physics Research Group";2
+126;"Physics";"Quantum Mechanics Seminar";2
+127;"Physics";"Space Exploration Project Team";2
+128;"Physics";"Cosmology Symposium";2
+129;"Physics";"Advanced Astronomy Observations";2
+130;"Physics";"Science Communication and Outreach Club";2
+131;"Physics";"High-Energy Particle Physics Laboratory";3
+132;"Physics";"Astrobiology Research Initiative";3
+133;"Physics";"Theoretical Physics Journal Club";3
+134;"Physics";"Astronomical Data Analysis Challenge";3
+135;"Physics";"Exoplanet Detection and Analysis Team";3
+136;"Physics";"International Science Fair Mentorship Program";3
+137;"Computer Science";"Programming Club";1
+138;"Computer Science";"Web Development Team";1
+139;"Computer Science";"Hackathon Club";1
+140;"Computer Science";"Artificial Intelligence Society";1
+141;"Computer Science";"Cybersecurity Team";1
+142;"Computer Science";"Computer Graphics Workshop";1
+143;"Computer Science";"Data Science Research Group";2
+144;"Computer Science";"Software Engineering Internship";2
+145;"Computer Science";"Machine Learning Workshop";2
+146;"Computer Science";"Robotics Competition Team";2
+147;"Computer Science";"Cloud Computing Seminar";2
+148;"Computer Science";"Quantum Computing Research";3
+149;"Computer Science";"Blockchain Development Lab";3
+150;"Computer Science";"Natural Language Processing Group";3
+151;"Computer Science";"Ethical Hacking Club";3
+152;"Computer Science";"Augmented Reality Innovation Team";3
+153;"Hotel Management";"Hospitality Club";1
+154;"Hotel Management";"Event Planning and Management Team";1
+155;"Hotel Management";"Culinary Arts Society";1
+156;"Hotel Management";"Hotel and Restaurant Marketing Group";2
+157;"Hotel Management";"Hospitality Internship Program";2
+158;"Hotel Management";"Hotel Sustainability Initiative";2
+159;"Hotel Management";"International Hospitality Exchange Program";3
+160;"Hotel Management";"Advanced Hotel Operations Simulation";3
+161;"Hotel Management";"Hospitality Entrepreneurship Incubator";3
+162;"Political Science";"Model United Nations";1
+163;"Political Science";"Youth Politics Forum";1
+164;"Political Science";"International Relations Society";1
+165;"Political Science";"Public Policy Analysis Group";2
+166;"Political Science";"Human Rights Advocacy Network";2
+167;"Political Science";"Environmental Policy Research Institute";2
+168;"Political Science";"Diplomatic Negotiations Simulation";3
+169;"Political Science";"Comparative Political Systems Research Center";3
+170;"Political Science";"Global Governance and Diplomacy Initiative";3
+171;"Hospitality Management";"Event Planning and Coordination Club";1
+172;"Hospitality Management";"Customer Service Excellence Team";1
+173;"Hospitality Management";"Restaurant Management Workshop";1
+174;"Hospitality Management";"Hotel Revenue Management Group";2
+175;"Hospitality Management";"Travel and Tourism Marketing Society";2
+176;"Hospitality Management";"Sustainable Hospitality Practices Committee";2
+177;"Hospitality Management";"Hospitality Technology Innovation Lab";3
+178;"Hospitality Management";"Global Hospitality Management Exchange Program";3
+179;"Hospitality Management";"Hospitality Entrepreneurship Incubator";3
+180;"Environmental Science";"Environmental Conservation Club";1
+181;"Environmental Science";"Climate Change Research Team";1
+182;"Environmental Science";"Sustainability and Green Initiatives Group";1
+183;"Environmental Science";"Eco-friendly Design and Architecture Workshop";2
+184;"Environmental Science";"Wildlife Conservation Society";2
+185;"Environmental Science";"Environmental Impact Assessment Panel";2
+186;"Environmental Science";"Advanced Environmental Policy Advocacy";3
+187;"Environmental Science";"Biodiversity and Ecological Restoration Project";3
+188;"Environmental Science";"Renewable Energy Technology Research Lab";3
+189;"Business Administration";"Business Club";1
+190;"Business Administration";"Entrepreneurship Society";1
+191;"Business Administration";"Consulting Team";1
+192;"Business Administration";"Marketing and Sales Group";2
+193;"Business Administration";"Supply Chain Management Initiative";2
+194;"Business Administration";"Business Ethics Forum";2
+195;"Business Administration";"Venture Capital and Private Equity Club";3
+196;"Business Administration";"International Business Development Project";3
+197;"Business Administration";"Social Entrepreneurship Incubator";3
+198;"Psychology";"Psychology Club";1
+199;"Psychology";"Mental Health Advocacy Group";1
+200;"Psychology";"Counseling and Therapy Workshop";1
+201;"Psychology";"Research in Behavioral Neuroscience";2
+202;"Psychology";"Psychological Assessment Team";2
+203;"Psychology";"Positive Psychology and Well-being Society";2
+204;"Psychology";"Clinical Internship and Case Study Group";3
+205;"Psychology";"Psychological Research Ethics Board";3
+206;"Psychology";"Mental Health Innovation and Advocacy Lab";3
+207;"Commerce";"Commerce Club";1
+208;"Commerce";"Financial Literacy Program";1
+209;"Commerce";"Economics and Policy Debate Team";1
+210;"Commerce";"Investment and Portfolio Management Society";2
+211;"Commerce";"Business Analytics and Data Science Group";2
+212;"Commerce";"International Trade and Finance Symposium";2
+213;"Commerce";"Corporate Finance and Valuation Challenge";3
+214;"Commerce";"Sustainable Business Practices Initiative";3
+215;"Commerce";"Commerce Startup Incubator";3
+216;"Accounting";"Accounting Society";1
+217;"Accounting";"Financial Accounting Workshop";1
+218;"Accounting";"Audit and Assurance Club";1
+219;"Accounting";"Taxation and Compliance Group";2
+220;"Accounting";"Forensic Accounting and Fraud Examination Team";2
+221;"Accounting";"Management Accounting Forum";2
+222;"Accounting";"Advanced Financial Reporting Research";3
+223;"Accounting";"Accounting Software Development Project";3
+224;"Accounting";"Accounting and Finance Entrepreneurship";3
+225;"Aeronautical Engineering";"Aero Club";1
+226;"Aeronautical Engineering";"Aircraft Design Team";1
+227;"Aeronautical Engineering";"Drone Racing Club";1
+228;"Aeronautical Engineering";"Rocketry and Space Exploration Group";2
+229;"Aeronautical Engineering";"Aviation Safety Committee";2
+230;"Aeronautical Engineering";"Aircraft Maintenance Workshop";2
+231;"Aeronautical Engineering";"Advanced Flight Dynamics Research";3
+232;"Aeronautical Engineering";"Unmanned Aerial Systems Development";3
+233;"Aeronautical Engineering";"Aerospace Start-up Incubator";3
+234;"Law";"Law Society";1
+235;"Law";"Mock Trial Team";1
+236;"Law";"Legal Aid Clinic";1
+237;"Law";"Moot Court Competition";2
+238;"Law";"Human Rights Advocacy Group";2
+239;"Law";"Environmental Law Symposium";2
+240;"Law";"International Arbitration Team";3
+241;"Law";"Corporate Law Clinic";3
+242;"Law";"Legal Tech Innovation Incubator";3
+243;"Finance";"Finance Club";1
+244;"Finance";"Investment Banking Society";1
+245;"Finance";"Stock Market Trading Group";1
+246;"Finance";"Financial Analysis and Research Team";2
+247;"Finance";"Quantitative Finance Seminar";2
+248;"Finance";"Real Estate Investment Association";2
+249;"Finance";"Hedge Fund Simulation Challenge";3
+250;"Finance";"Risk Management and Derivatives Trading Lab";3
+251;"Finance";"Financial Technology (FinTech) Startup Incubator";3
+252;"Data Science";"Data Science Club";1
+253;"Data Science";"Machine Learning Workshop";1
+254;"Data Science";"Big Data Analytics Team";1
+255;"Data Science";"Data Visualization Project Group";2
+256;"Data Science";"Natural Language Processing Lab";2
+257;"Data Science";"Data Ethics and Privacy Forum";2
+258;"Data Science";"Advanced Predictive Modeling Research";3
+259;"Data Science";"AI Ethics and Bias Assessment Task Force";3
+260;"Data Science";"Data Science Startup Incubator";3
+261;"Mathematics";"Math Club";1
+262;"Mathematics";"Math Olympiad Training";1
+263;"Mathematics";"Mathematics Research Seminar";1
+264;"Mathematics";"Combinatorics Study Group";2
+265;"Mathematics";"Applied Mathematics Society";2
+266;"Mathematics";"Statistics and Data Analysis Team";2
+267;"Mathematics";"Advanced Number Theory Research";3
+268;"Mathematics";"Mathematical Modeling Challenge";3
+269;"Mathematics";"Mathematics and Computer Science Journal";3
+270;"Automobiles";"Automotive Engineering Club";1
+271;"Automobiles";"Formula SAE Racing Team";1
+272;"Automobiles";"Automotive Design and Fabrication Workshop";1
+273;"Automobiles";"Electric Vehicle Development Project";2
+274;"Automobiles";"Automotive Materials Research Group";2
+275;"Automobiles";"Automotive Safety and Crash Testing Team";2
+276;"Automobiles";"Autonomous Vehicle Challenge";3
+277;"Automobiles";"Racing Car Aerodynamics Simulation";3
+278;"Automobiles";"Future Mobility Innovation Lab";3
+279;"Biology";"Biology Club";1
+280;"Biology";"Botany Society";1
+281;"Biology";"Ecology Field Studies Group";1
+282;"Biology";"Genomics Research Team";2
+283;"Biology";"Wildlife Conservation Initiative";2
+284;"Biology";"Marine Biology Expedition";2
+285;"Biology";"Advanced Microscopy and Imaging Lab";3
+286;"Biology";"Immunology Research Consortium";3
+287;"Biology";"Biomedical Ethics Discussion Group";3
+288;"Chemistry";"Chemistry Club";1
+289;"Chemistry";"Analytical Chemistry Lab";1
+290;"Chemistry";"Chemical Research Seminar";1
+291;"Chemistry";"Inorganic Chemistry Research";2
+292;"Chemistry";"Chemical Engineering Society";2
+293;"Chemistry";"Environmental Chemistry Group";2
+294;"Chemistry";"Nanotechnology Research Group";3
+295;"Chemistry";"Chemical Safety Committee";3
+296;"Chemistry";"Chemical History Symposium";3
+297;"Biochemistry";"Biochemistry Society";1
+298;"Biochemistry";"Molecular Biology Lab";1
+299;"Biochemistry";"Enzyme Kinetics Study Group";1
+300;"Biochemistry";"Metabolic Pathways Research Team";2
+301;"Biochemistry";"Protein Structure Analysis Lab";2
+302;"Biochemistry";"Clinical Biochemistry Symposium";2
+303;"Biochemistry";"Advanced Drug Discovery Project";3
+304;"Biochemistry";"Biotech Entrepreneurship Incubator";3
+305;"Biochemistry";"Bioethics and Biomedical Law Forum";3
+306;"Microbiology";"Microbiology Club";1
+307;"Microbiology";"Medical Microbiology Lab";1
+308;"Microbiology";"Infectious Disease Seminar";1
+309;"Microbiology";"Microbial Ecology Research Group";2
+310;"Microbiology";"Virology Study Team";2
+311;"Microbiology";"Antimicrobial Resistance Task Force";2
+312;"Microbiology";"Advanced Pathogen Genomics Lab";3
+313;"Microbiology";"Epidemiology and Public Health Outreach";3
+314;"Microbiology";"Biodefense and Bioterrorism Preparedness";3
+315;"Medical";"Pre-Medical Society";1
+316;"Medical";"Medical Volunteer Program";1
+317;"Medical";"Medical Ethics Discussion Group";1
+318;"Medical";"Clinical Shadowing Program";2
+319;"Medical";"Global Health Initiatives";2
+320;"Medical";"Medical Research Symposium";2
+321;"Medical";"Surgical Skills Training Workshop";3
+322;"Medical";"Emergency Medicine Response Team";3
+323;"Medical";"Healthcare Innovation and Entrepreneurship";3
